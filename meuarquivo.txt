@@ -1,4 +1,4 @@
-o
-:w
- mundo
-eucout aqui
+
+w:w
+ wmundo
+euwwcout aqui
